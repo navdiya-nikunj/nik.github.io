@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+}
+.header-image{
+    width: 100%;
+    height: 40vh;
+}
+
+
+.Navigation{
+    height: 5vh;
+    display: flex;
+    background-color: white;
+    /* position: fixed; */
+}
+
+.buttons{
+    margin-left: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: black;
+    font-size: larger;
+    font-weight: 900;
+}
+main{
+    background-color: black;
+    color: white;
+}
+
+.quot{
+    height: 5vh;
+    font-size: xx-large;
+    text-align: center;
+}
+.About-text{
+    font-size: large;
+    text-align: justify;
+    padding: 50px;
+}
